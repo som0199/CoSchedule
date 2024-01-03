@@ -684,6 +684,9 @@
         width: 100%;
         height: auto;
     }
+    #message{
+        display: none;
+    }
 
     .container-1{
         width: 100%;
